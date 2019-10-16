@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Configuration>
+  <SqLite>
+    <SQLiteFile></SQLiteFile>
+    <Password protected=""></Password>
+    <Version></Version>
+  </SqLite>
+  <SQLServer>
+    <DbName DbNameSameAsSQLFile=""></DbName>
+    <Schema DefaultSchema=""></Schema>
+    <Datasource></Datasource>
+    <User></User>
+    <Password></Password>
+    <Authentication></Authentication>
+    <OtherParam></OtherParam>
+    <CommandTime></CommandTime>
+  </SQLServer>
+  <Mapping>
+    <Integer></Integer>
+    <Real></Real>
+    <Text></Text>
+    <Blob></Blob>
+    <AllConstraint></AllConstraint>
+    <PK></PK>
+    <FK></FK>
+    <UK></UK>
+    <DefaultSetting></DefaultSetting>
+    <SameAsSQLiteColumnDatatype></SameAsSQLiteColumnDatatype>
+  </Mapping>
+</Configuration>
