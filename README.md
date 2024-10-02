@@ -12,6 +12,6 @@ You can do export/import operations very quickly by this tool
  2. Import flat files to your databases in couple of minutes
  3. Track your operation by rich GUI provided by applications
  4. Very Easy and intutive User interface.
- 5. Get detail report of your operatoin.
+ 5. Get detail report of your operation.
 
 Feel free to reach on aryabhattasoftTech@gmail.com.
